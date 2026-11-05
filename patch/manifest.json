@@ -1,0 +1,19 @@
+{
+    "build":  25,
+    "version":  "1.3.25",
+    "engine":  "4.7.2",
+    "base":  24,
+    "made":  "2026-11-05 13:59",
+    "platforms":  {
+                      "windows":  {
+                                      "file":  "patch_windows_25.pck",
+                                      "sha256":  "d0a96273d3b346e2b9b01355c887103f904ee0f4acdfae62ab9a87295d0ea035",
+                                      "size":  610060
+                                  },
+                      "ios":  {
+                                  "file":  "patch_ios_25.pck",
+                                  "sha256":  "336d83466db08aa0549f2962e01f1f45a0ceaa33e83ec6a40db7ff468a2d18e4",
+                                  "size":  615276
+                              }
+                  }
+}
