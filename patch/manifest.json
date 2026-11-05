@@ -1,19 +1,10 @@
 {
-    "build":  29,
-    "version":  "1.3.29",
+    "build":  30,
+    "version":  "1.3.30",
     "engine":  "4.7.2",
-    "base":  24,
-    "made":  "2026-11-05 22:15",
+    "base":  30,
+    "made":  "2026-11-06 07:17",
     "platforms":  {
-                      "windows":  {
-                                      "file":  "patch_windows_29.pck",
-                                      "sha256":  "b8ad17b18d6196c12746b213b8c4328a226fef18019067e4b942d82c88e31c8a",
-                                      "size":  768216
-                                  },
-                      "ios":  {
-                                  "file":  "patch_ios_29.pck",
-                                  "sha256":  "feb9f652118830bc479d37511da3364c9dd2e894f14f81c68b6dc47203cca6f2",
-                                  "size":  773432
-                              }
+
                   }
 }
