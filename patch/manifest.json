@@ -1,19 +1,19 @@
 {
-    "build":  64,
-    "version":  "1.3.64",
+    "build":  65,
+    "version":  "1.3.65",
     "engine":  "4.7.2",
     "base":  56,
-    "made":  "2026-11-14 19:36",
+    "made":  "2026-11-14 20:12",
     "platforms":  {
                       "windows":  {
-                                      "file":  "patch_windows_64.pck",
-                                      "sha256":  "7c6bfef370d64179df39df1ad324bc873b303e9e0cce44512c5db41ecfb757f8",
-                                      "size":  1462284
+                                      "file":  "patch_windows_65.pck",
+                                      "sha256":  "9024f4b54ac03dc714af346ed02cf0a531374ff3c425fb127d8cecfbc03b6fbe",
+                                      "size":  2348280
                                   },
                       "ios":  {
-                                  "file":  "patch_ios_64.pck",
-                                  "sha256":  "0b0aa11a438d1a5f89de166b721e78efbd54b7fb763b5b4a7df2db117aaec08b",
-                                  "size":  1464080
+                                  "file":  "patch_ios_65.pck",
+                                  "sha256":  "cc608b6ff01114142ef488822f6e374867abeac61df132aa0ac70854890d0742",
+                                  "size":  2350076
                               }
                   }
 }
