@@ -1,10 +1,14 @@
 {
-    "build":  37,
-    "version":  "1.3.37",
+    "build":  58,
+    "version":  "1.3.58",
     "engine":  "4.7.2",
-    "base":  37,
-    "made":  "2026-11-10 08:50",
+    "base":  56,
+    "made":  "2026-11-14 16:11",
     "platforms":  {
-
+                      "ios":  {
+                                  "file":  "patch_ios_58.pck",
+                                  "sha256":  "287ff412fa91ca88526f05dca51ebe233f24e2e49d5c27c661f56319a5da5f9c",
+                                  "size":  774480
+                              }
                   }
 }
